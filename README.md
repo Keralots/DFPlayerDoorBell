@@ -94,7 +94,7 @@ Free doorbell sound sources:
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/esp32-dfplayer-doorbell.git
+git clone https://github.com/Keralots/DFPlayerDoorBell.git
 cd esp32-dfplayer-doorbell
 ```
 
